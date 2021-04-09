@@ -8,6 +8,7 @@
 ### :octocat: &nbsp;GitHub Analytics
 
 <p>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="241px" align="right"/>
 <a align="left" href="https://github.com/Georgi-Kalkovski">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Georgi-Kalkovski&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Georgi-Kalkovski&layout=compact&langs_count=8&hide=java,r&theme=react "/>
@@ -15,8 +16,6 @@
 </p>
 
 ### 🛠 &nbsp;Tech Stack
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
