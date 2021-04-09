@@ -5,6 +5,14 @@
 🎓 &nbsp;I have a Bachelor's degree in English Philology.\
 💻 &nbsp;Currently studying for Full Stack .NET Developer at <a href="https://softuni.bg/">SoftUni</a> a Software University.
 
+### :octocat: &nbsp;GitHub Analytics
+
+<p>
+<a align="left" href="https://github.com/Georgi-Kalkovski">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Georgi-Kalkovski&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Georgi-Kalkovski&layout=compact&langs_count=8&hide=java,r&theme=react "/>
+</a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -31,16 +39,6 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=flat&logo=microsoft-visio&logoColor=white)&nbsp;\
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
-
-### :octocat: &nbsp;GitHub Analytics
-
-<p>
-<a align="left" href="https://github.com/Georgi-Kalkovski">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Georgi-Kalkovski&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Georgi-Kalkovski&layout=compact&langs_count=8&hide=java,r&theme=react "/>
-</a>
-</p>
-
 
 ### 🎓 &nbsp;Passed Courses and their Certificates
 
