@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"> Hi there! I'm Georgi 
 <em>Currently working as a System Administrator at <a href="https://www.complex-industrial-service.com/">Complex Industrial Service - КИС</a>, where I take care for the company's server, computers and website. 
 
-### &nbsp; <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="65px" align="center"/> &nbsp;About Me
+### <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="65px" align="center"/> &nbsp;About Me
 🎓 &nbsp;I have a Bachelor's degree in English Philology.\
 💻 &nbsp;Currently studying for Full Stack .NET Developer at <a href="https://softuni.bg/">SoftUni</a> a Software University.
 
