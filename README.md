@@ -27,7 +27,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;\
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat&logo=notepad%2B%2B&logoColor=white)&nbsp;\
+![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=flat&logo=notepad%2B%2B&logoColor=black)&nbsp;\
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)&nbsp;\
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
