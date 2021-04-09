@@ -8,7 +8,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
@@ -56,7 +56,7 @@
 
 ### 🤝🏻  &nbsp;Connect with Me
 
-<a href="mailto:gopeto.92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/georgi.kalkovski"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.reddit.com/user/TerterBG"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-![Discord](https://img.shields.io/badge/Discord%3A%20Terter%238298-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
+<a href="mailto:gopeto.92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/georgi.kalkovski"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/TerterBG"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/></a>
+![Discord](https://img.shields.io/badge/Discord%3A%20Terter%238298-7289DA?style=flat&logo=discord&logoColor=white)&nbsp;
