@@ -2,7 +2,9 @@
 <p><em>Currently working as a System Administrator at <a href="https://www.complex-industrial-service.com/">Complex Industrial Service - КИС</a>, where I also take care for the site.
 
 ### &nbsp; 👨🏻‍💻 &nbsp;About Me
-🎓 &nbsp;I have Bachelor's degree in English Philology.\
+🎓 &nbsp;I have Bachelor's degree in English Philology.
+💻 &nbsp;Currently studying for Full Stack .NET Developer at <a href="https://softuni.bg/" > Software University </a>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
