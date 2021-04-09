@@ -3,7 +3,21 @@
 
 ### &nbsp; 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I have Bachelor's degree in English Philology.\
-💻 &nbsp;Currently studying for Full Stack .NET Developer at <a href="https://softuni.bg/" > Software University </a>
+💻 &nbsp;Currently studying for Full Stack .NET Developer at <a href="https://softuni.bg/" > SoftUni </a>a Software University.
+
+### 🛠 &nbsp;Tech Stack
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;\
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;\
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)\
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;\
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
