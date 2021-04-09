@@ -2,14 +2,15 @@
 
 ### 🛠 &nbsp;Tech Stack:
 
-<p>
+<p align="center">
 <a href="https://github.com/Georgi-Kalkovski">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Georgi-Kalkovski&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Georgi-Kalkovski&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </a>
 </p>
 
-|**Courses**|**Certificates**| 
+
+|**Courses**|**Certificates**|
 |---|---|
 |<a href="https://softuni.bg/trainings/2210/programming-basics-with-csharp-january-2019" > Programming Basics with C# </a>| <a href="https://softuni.bg/certificates/details/63367/b17f2ce8"> Link</a> |
 |<a href="https://softuni.bg/trainings/2363/csharp-fundamentals-may-2019"> C# Fundamentals </a>| <a href="https://softuni.bg/certificates/details/69240/d2c927bf"> Link</a> |
