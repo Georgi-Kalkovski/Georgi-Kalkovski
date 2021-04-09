@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Georgi 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"> Hi there! I'm Georgi <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="75px" align="center"/>
 <em>Currently working as a System Administrator at <a href="https://www.complex-industrial-service.com/">Complex Industrial Service - КИС</a>, where I take care for the company's server, computers and website. 
 
 ### &nbsp; :bowtie: &nbsp;About Me
@@ -8,7 +8,6 @@
 ### :octocat: &nbsp;GitHub Analytics
 
 <p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="241px" align="right"/>
 <a align="left" href="https://github.com/Georgi-Kalkovski">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Georgi-Kalkovski&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Georgi-Kalkovski&layout=compact&langs_count=8&hide=java,r&theme=react "/>
