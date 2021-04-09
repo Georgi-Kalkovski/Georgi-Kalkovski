@@ -8,15 +8,15 @@
 
 ### 🛠 &nbsp;Tech Stack
 
- ![C#](https://img.shields.io/badge/-C%23-239120?style=badge-pill&logo=c-sharp&logoColor=white)&nbsp;
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=8px&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=8px&logo=.net&logoColor=white)&nbsp;\
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=8px&logo=javascript&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=8px&logo=node.js&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/Npm-CB3837?style=8px&logo=npm&logoColor=white)&nbsp;\
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;\
+ ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)&nbsp;
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)&nbsp;\
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/Npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;\
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS-1572B6?&style=plastic&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)&nbsp;\
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;\
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
