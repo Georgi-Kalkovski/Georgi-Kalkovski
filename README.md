@@ -1,5 +1,5 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! I'm Georgi  <img width="226px" style="vertical-align: middle;" align="right" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-<br>
+## <img width="75px" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /> Hi there! I'm Georgi 
+<br> 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
