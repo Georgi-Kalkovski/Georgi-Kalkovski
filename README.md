@@ -1,5 +1,5 @@
 ## <img width="75px" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /> Hi there! I'm Georgi 
-<p><em>Currently working as System administrator at <a href="https://www.complex-industrial-service.com/">Complex Industrial Service - КИС</a>
+<p><em>Currently working as System administrator at <a href="https://www.complex-industrial-service.com/">Complex Industrial Service - КИС</a>, where I also take care for the site.
 
 ### &nbsp; 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I have Bachelor's degree in English Philology.\
