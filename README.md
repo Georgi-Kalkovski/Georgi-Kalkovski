@@ -3,7 +3,8 @@
 
 ### &nbsp; 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I have Bachelor's degree in English Philology.\
-💻 &nbsp;Currently studying for Full Stack .NET Developer at <a href="https://softuni.bg/" > SoftUni </a>a Software University.
+💻 &nbsp;Currently studying for Full Stack .NET Developer at <a href="https://softuni.bg/">SoftUni</a> a Software University.
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,6 +29,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)&nbsp;\
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
@@ -36,6 +38,7 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Georgi-Kalkovski&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </a>
 </p>
+
 
 ### 🎓 &nbsp;Passed Courses and their Certificates
 
