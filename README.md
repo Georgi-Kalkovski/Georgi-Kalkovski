@@ -57,5 +57,5 @@
 <a href="https://www.linkedin.com/in/georgi-kalkovski/"><img src="https://img.shields.io/badge/-Georgi%20Kalkovski-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:g.kalkovski.92@gmail.com"><img src="https://img.shields.io/badge/-g.kalkovski.92@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/georgi.kalkovski"><img src="https://img.shields.io/badge/-Georgi%20Kalkovski-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-![Discord](https://img.shields.io/badge/Discord%3A%20Terter%238298-7289DA?style=flat&logo=discord&logoColor=white)&nbsp;
+![Discord](https://img.shields.io/badge/-Terter%238298-7289DA?style=flat&logo=discord&logoColor=white)&nbsp;
 <!--  <a href="https://www.reddit.com/user/TerterBG"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/></a> -->
