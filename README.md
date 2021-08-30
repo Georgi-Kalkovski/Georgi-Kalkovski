@@ -51,6 +51,7 @@
 |<a href="https://softuni.bg/trainings/3164/csharp-web-basics-september-2020"> C# Web Basics </a>| <a href="https://softuni.bg/certificates/details/91040/a9ea0727"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3217/js-advanced-january-2021"> JS Advanced </a>| <a href="https://softuni.bg/certificates/details/98349/f2b1de32"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3218/js-applications-february-2021"> JS Applications </a>| <a href="https://softuni.bg/certificates/details/102417/aee63c56"> 👉📜✔️</a> |
+|<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> ASP.NET Core </a>| <a href="https://softuni.bg/certificates/details/113499/ba57a349"> 👉📜✔️</a> |
 
 ### 🤝🏻  &nbsp;Connect with Me
 
