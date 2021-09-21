@@ -3,7 +3,7 @@
 
 ### <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="65px" align="center"/> &nbsp;About Me
 🎓 &nbsp;I have a Bachelor's degree in English Philology.\
-💻 &nbsp;Currently studying for Full Stack .NET Developer at <a href="https://softuni.bg/">SoftUni</a> a Software University.
+💻 &nbsp;Currently studying for Full Stack .NET Developer at <a href="https://softuni.bg/">SoftUni</a>, a Software University.
 
 ### :octocat: &nbsp;GitHub Analytics
 
