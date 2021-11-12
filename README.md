@@ -56,6 +56,7 @@
 |<a href="https://softuni.bg/trainings/3354/asp-dot-net-core-june-2021"> ASP.NET Core </a>| <a href="https://softuni.bg/certificates/details/113499/ba57a349"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3530/html-and-css-september-2021"> HTML & CSS </a>| <a href="https://softuni.bg/certificates/details/117757/0dc5b993"> 👉📜✔️</a> |
 |<a href="https://softuni.bg/trainings/3575/reactjs-november-2021/"> ReactJS </a>| Soon™ 👨‍💻 |
+| Diploma - C# Web Developer | <a href="https://softuni.bg/certificates/details/117944/24035804">👉🎓✔️</a> |
 
 ### 🤝🏻  &nbsp;Connect with Me
 
