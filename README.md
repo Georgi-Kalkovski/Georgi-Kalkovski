@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center"> Hi there! I'm Georgi 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" align="center"> Hi there! I'm Georgi 
 <em>Currently working as a System Administrator at <a href="https://www.complex-industrial-service.com/">Complex Industrial Service EOOD - КИС ЕООД</a>, where I take care for the company's server, computers and website. 
 
 ### <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="65px" align="center"/> &nbsp;About Me
