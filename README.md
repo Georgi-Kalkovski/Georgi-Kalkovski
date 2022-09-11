@@ -5,6 +5,7 @@
 🎓 &nbsp;I have a Bachelor's degree in English Philology.\
 💻 &nbsp;Studied for C# Full-Stack Developer and JS Web Developer at <a href="https://softuni.bg/">SoftUni</a>, a Software University.
 
+<!--
 ### :octocat: &nbsp;GitHub Analytics
 
 <p>
@@ -13,6 +14,7 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Georgi-Kalkovski&layout=compact&langs_count=8&hide=java,r&theme=react "/>
 </a>
 </p>
+-->
 
 ### 🛠 &nbsp;Tech Stack
 
