@@ -7,7 +7,7 @@
 
 ### :octocat: &nbsp;GitHub Analytics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Georgi-Kalkovski&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georgi-Kalkovski&layout=compact&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georgi-Kalkovski&layout=compact&hide_border=true" />
 
 ### 🛠 &nbsp;Tech Stack
 
